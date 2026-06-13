@@ -1,0 +1,6 @@
+{
+  "name": "Digital Literacy Exam Prep",
+  "description": "Digital Literacy & AI exam preparation app featuring a 40-question/60-minute driving-test-style mock exam with Cornell notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
